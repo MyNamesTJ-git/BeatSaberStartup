@@ -1,5 +1,7 @@
 # BeatSaberStartup
-This will help you install and mod your Beat Saber, This page is made by TJ, uses of other sources will be placed into my [Sources](sources.md) page
+This will help you install and mod your Beat Saber, This page is made by TJ, uses of other sources will be placed into my [Sources](sources.md) page once i rework the instructions. The page will also gain improved instruction with better detail and photo guides once its reworked. Please be patient as I am a colleg student and dont currently have the time to make this page. I may eventually make modpacks (similar to iPixelGalaxy) though this is **not** a guarantee.
+
+
 ## Windows:
 ### Get Beat Saber:
 * Steam:
@@ -36,7 +38,16 @@ This will help you install and mod your Beat Saber, This page is made by TJ, use
   * *(optional)* when you finish open the `IPA.exe` This refreshes the modloader
   * When you finish, exit your file manager and navigate to BSManager, From here you should be able to launch the game and start playing or customizing settings.
 
-## Meta/Oculus Quest 2/3/3s
-### Comming soon
-
-
+## Meta/Oculus Quest 2/3/3s (requires PC/Android with a Chromium browser)
+### Enable Developer Mode on your Oculus/Meta headset (Skip if you already have Developer Mode)
+*I will not currently provide instruction for enabling developer mode at this point. I will in the future, for now query the instructions then come back to this page, This is the official developer mode guide: [link](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/?locale=en_GB)*
+### Modding Beat Saber with ModsBeforeFriday! (Via USB ADB)
+ * *(You **need** a USB-C cable to use MBF)* First, go to the MBF website on your external browser-capible device.
+ * Make sure your headset is on, then plug the headset and computer together and click the "Connect To Quest" button on MBF
+ * you will be prompted with a "lauriethefish.github.io wants to connect" dialog, Select your connected quest and click connect.
+ * Read the information it desplays carefully, thed click "Mod the app"
+ * It will begin downgrading and injecting mods into your game. this will take multiple minutes. **DO NOT DISCONNECT YOUR DEVICE**
+ * when it finishes, you will be ready to install mods.
+ * you will have a [list](https://mods.bsquest.xyz/1.40.8_7379/) of mods to install, select the "Add mods" button to install the core mods and any additional mods you wish to have.
+ * You will then manage your Custom songs through Beat Saber. you have the ability to add additional qmods, sabers (i think) and songs through MBF. *(There should be a way to access the MBF mod manager through the quest, i will research how to accesss it at a later date)*
+ * Launch beat saber through your headset and your ready to start playing or configuring.
