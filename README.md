@@ -1,6 +1,7 @@
 # BeatSaberStartup
-This will help you install and mod your Beat Saber, This page is made by TJ, uses of other sources will be placed into my [Sources](sources.md) page once i rework the instructions. The page will also gain improved instruction with better detail and photo guides once its reworked. Please be patient as I am a colleg student and dont currently have the time to make this page. I may eventually make modpacks (similar to iPixelGalaxy) though this is **not** a guarantee.
+This will help you install and mod your Beat Saber, This page is made by TJ, uses of other sources will be placed into my [Sources](sources.md) page once i rework the instructions. The page will also gain improved instruction with better detail and photo guides once its reworked. 
 
+**I am planning to soon rework some of the instructions. I will try to give detailed step-by-step instructions for Windows (Steam and Meta Store methods), Standalone, and Linux (Using ALVR)**
 
 ## Windows:
 ### Get Beat Saber:
